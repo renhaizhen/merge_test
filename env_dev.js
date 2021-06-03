@@ -1,5 +1,4 @@
 function a(){
     return 'a'
 }
-
-console.log(888)
+console.log('test')
