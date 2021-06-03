@@ -1,5 +1,5 @@
 function a(){
-    return 'a'
+    return 'env_dev'
 }
 
-console.log(888)
+console.log(89900)

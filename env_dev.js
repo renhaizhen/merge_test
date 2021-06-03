@@ -1,4 +1,4 @@
 function a(){
-    return 'a'
+    return 'auidja'
 }
-console.log('test')
+console.log('testsad')
